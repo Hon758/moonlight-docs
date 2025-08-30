@@ -12,7 +12,7 @@ Moonlightアプリの法的文書を公開するためのリポジトリです�
 
 このリポジトリはGitHub Pagesで公開されており、以下のURLでアクセスできます：
 
-**https://[your-username].github.io/moonlight-docs/**
+**https://github.com/Hon758/moonlight-docs**
 
 ## 更新方法
 
